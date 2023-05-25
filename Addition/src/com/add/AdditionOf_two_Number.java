@@ -7,6 +7,7 @@ public class AdditionOf_two_Number {
 	int  sum =a+b;
 	System.out.println(sum);
 	System.out.println("tushar bhau kale bhimani");
+	 System.out.println("kar tr sahi");
  }
 	public static void main(String[] args) {
 		m1();
