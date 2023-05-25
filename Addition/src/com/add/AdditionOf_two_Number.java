@@ -6,6 +6,7 @@ public class AdditionOf_two_Number {
 	 int b=20;
 	int  sum =a+b;
 	System.out.println(sum);
+	System.out.println("tushar bhau kale bhimani");
  }
 	public static void main(String[] args) {
 		m1();
